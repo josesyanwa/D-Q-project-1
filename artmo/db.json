@@ -1,0 +1,152 @@
+{
+  "artworks": [
+    {
+      "id": 1,
+      "title": "In the Future",
+      "artist": "Tony S",
+      "price": 5000,
+      "imagePath": "/assets/img 1.jpg"
+    },
+    {
+      "id": 2,
+      "title": "Joker",
+      "artist": "J.J Carmella",
+      "price": 10000,
+      "imagePath": "/assets/img 2.jpg"
+    },
+    {
+      "id": 3,
+      "title": "Innocence",
+      "artist": "Arturo ",
+      "price": 10000,
+      "imagePath": "/assets/img 3.jpg"
+    },
+    {
+      "id": 4,
+      "title": "It`s Drippin",
+      "artist": "Michael Corleone",
+      "price": 10000,
+      "imagePath": "/assets/img 4.jpg"
+    },
+    {
+      "id": 5,
+      "title": "Mother Nature",
+      "artist": "Jono Dry",
+      "price": 10000,
+      "imagePath": "/assets/img 5.jpg"
+    },
+    {
+      "id": 6,
+      "title": "Wise man",
+      "artist": "Tony S",
+      "price": 10000,
+      "imagePath": "/assets/img 6.jpg"
+    },
+    {
+      "id": 7,
+      "title": "Escape the matrix",
+      "artist": "Jono Dry",
+      "price": 10000,
+      "imagePath": "/assets/img 7.jpg"
+    },
+    {
+      "id": 8,
+      "title": "Mother of Dragons",
+      "artist": "Tony S",
+      "price": 10000,
+      "imagePath": "/assets/img 8.jpg"
+    },
+    {
+      "id": 9,
+      "title": "Asian beauty",
+      "artist": "J.J Carmella",
+      "price": 10000,
+      "imagePath": "/assets/img 9.jpg"
+    },
+    {
+      "id": 10,
+      "title": "The Sunset",
+      "artist": "Klaus M",
+      "price": 10000,
+      "imagePath": "/assets/img 10.jpg"
+    },
+    {
+      "id": 11,
+      "title": "The Greatmen of America",
+      "artist": "Tony S",
+      "price": 10000,
+      "imagePath": "/assets/img 11.jpg"
+    },
+    {
+      "id": 12,
+      "title": "Silhouette",
+      "artist": "Michael Corleone",
+      "price": 10000,
+      "imagePath": "/assets/img 12.jpg"
+    },
+    {
+      "id": 13,
+      "title": "Afro",
+      "artist": "Klaus M",
+      "price": 10000,
+      "imagePath": "/assets/img 13.jpg"
+    },
+    {
+      "id": 14,
+      "title": "Rage",
+      "artist": "Jono Dry",
+      "price": 10000,
+      "imagePath": "/assets/img 14.jpg"
+    },
+    {
+      "id": 15,
+      "title": "Street",
+      "artist": "Arturo ",
+      "price": 10000,
+      "imagePath": "/assets/img 15.jpg"
+    },
+    {
+      "id": 16,
+      "title": "Let it out",
+      "artist": "Michael Corleone",
+      "price": 10000,
+      "imagePath": "/assets/img 16.jpg"
+    },
+    {
+      "id": 17,
+      "title": "crouch",
+      "artist": "Jono Dry",
+      "price": 10000,
+      "imagePath": "/assets/img 17.jpg"
+    },
+    {
+      "id": 18,
+      "title": "Modern man",
+      "artist": "J.J Carmella",
+      "price": 10000,
+      "imagePath": "/assets/img 18.jpg"
+    },
+    {
+      "id": 19,
+      "title": "Arthur",
+      "artist": "Arturo ",
+      "price": 10000,
+      "imagePath": "/assets/img 19.jpg"
+    },
+    {
+      "id": 20,
+      "title": "Beautiful nature",
+      "artist": "J Dutton",
+      "price": 10000,
+      "imagePath": "/assets/img 20.jpg"
+    },
+    {
+      "id": 21,
+      "title": "Enjoy the rain",
+      "artist": "Klaus M",
+      "price": 10000,
+      "imagePath": "/assets/img 21.jpg"
+    }
+    
+  ]
+}
